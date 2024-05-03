@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		34122F932BE4F48800C904CC /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 34122F922BE4F48800C904CC /* HomeView.swift */; };
 		34DD44802BE4DF0000007691 /* MySwiftUISourceControlApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 34DD447F2BE4DF0000007691 /* MySwiftUISourceControlApp.swift */; };
 		34DD44822BE4DF0000007691 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 34DD44812BE4DF0000007691 /* ContentView.swift */; };
 		34DD44842BE4DF0100007691 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 34DD44832BE4DF0100007691 /* Assets.xcassets */; };
@@ -14,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		34122F922BE4F48800C904CC /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
 		34DD447C2BE4DF0000007691 /* MySwiftUISourceControl.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MySwiftUISourceControl.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		34DD447F2BE4DF0000007691 /* MySwiftUISourceControlApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MySwiftUISourceControlApp.swift; sourceTree = "<group>"; };
 		34DD44812BE4DF0000007691 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -54,6 +56,7 @@
 			children = (
 				34DD447F2BE4DF0000007691 /* MySwiftUISourceControlApp.swift */,
 				34DD44812BE4DF0000007691 /* ContentView.swift */,
+				34122F922BE4F48800C904CC /* HomeView.swift */,
 				34DD44832BE4DF0100007691 /* Assets.xcassets */,
 				34DD44852BE4DF0100007691 /* MySwiftUISourceControl.entitlements */,
 				34DD44862BE4DF0100007691 /* Preview Content */,
@@ -139,6 +142,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				34122F932BE4F48800C904CC /* HomeView.swift in Sources */,
 				34DD44822BE4DF0000007691 /* ContentView.swift in Sources */,
 				34DD44802BE4DF0000007691 /* MySwiftUISourceControlApp.swift in Sources */,
 			);
