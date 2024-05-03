@@ -11,11 +11,14 @@
  NEW FEATURE:
  [Feature] Description of the feature
  
- PATCH IN PRODUCTION:
- [Patch] Description of the patch
+ BUG NOT IN PRODUCTION:
+ [Bug] Description of the bug
+ 
+ RELEASE:
+ [Release] Description of release
  
  BUG IN PRODUCTION:
- [Bug] Description of the bug
+ [Patch] Description of the patch
  
  MUNDANE TASKS:
  [Clean] Description of change
@@ -34,7 +37,7 @@ struct ContentView: View {
                 .font(.largeTitle)
                 .foregroundStyle(.tint)
             Text("Hakob")
-            Button("Subscribe") {
+            Button("Click Me") {
                 
             }
             Button("Click Me") {
