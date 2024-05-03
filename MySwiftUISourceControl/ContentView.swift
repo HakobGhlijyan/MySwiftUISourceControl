@@ -13,11 +13,11 @@ struct ContentView: View {
             Image(systemName: "heart.fill")
                 .font(.largeTitle)
                 .foregroundStyle(.tint)
-            Text("Hakob Ghlijyan")
+            Text("Hakob")
             Button("CLick Me") {
                 
             }
-            .background(.red)
+            .background(.green)
         }
         .padding()
     }
