@@ -5,6 +5,7 @@
 //  Created by Hakob Ghlijyan on 03.05.2024.
 //
 
+// COMMIT MESSAGES
 /*
  COMMIT MESSAGES
 
@@ -40,10 +41,6 @@ struct ContentView: View {
             Button("Click Me") {
                 
             }
-            Button("Click Me") {
-                
-            }
-            .background(.red)
         }
         .padding()
     }
