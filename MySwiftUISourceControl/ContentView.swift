@@ -37,10 +37,15 @@ struct ContentView: View {
             Image(systemName: "heart.fill")
                 .font(.largeTitle)
                 .foregroundStyle(.tint)
+            
             Text("Hakob")
+            
             Button("Click Me") {
                 
             }
+            
+            Rectangle()
+            
         }
         .padding()
     }
