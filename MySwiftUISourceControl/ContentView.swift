@@ -44,7 +44,7 @@ struct ContentView: View {
                 .font(.largeTitle)
                 .foregroundStyle(.tint)
             
-            Text("Hakob Ghlijyan - My Name")
+            Text("Hakob Ghlijyan")
             
             Button("Subscribe Now!") {
                 
