@@ -46,7 +46,7 @@ struct ContentView: View {
             
             Text("Hakob Ghlijyan")
             
-            Button("Subscribe Now!") {
+            Button("Subscribe Now") {
                 
             }
             
