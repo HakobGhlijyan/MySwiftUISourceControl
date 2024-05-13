@@ -14,7 +14,7 @@
  Stash      -    Save changes for later
  Push       -    Send local commits to remote repo
  Pull       -    Fetch remote commits to local repo
-
+ 
  NEW FEATURE:
  [Feature] Description of the feature
  
@@ -40,18 +40,13 @@ import SwiftUI
 struct ContentView: View {
     var body: some View {
         VStack {
-            Image(systemName: "bolt.fill")
-                .font(.largeTitle)
-                .foregroundStyle(.tint)
-            
-            Text("Hakob Ghlijyan")
-            
-            Button("Subscribe Now") {
-                
+            ScrollView {
+                VStack {
+                    ForEach(0..<20) { _ in
+                        Text("Yo")
+                    }
+                }
             }
-            
-            Rectangle()
-            
         }
         .padding()
     }
