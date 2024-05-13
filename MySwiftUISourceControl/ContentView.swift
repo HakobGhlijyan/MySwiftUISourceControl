@@ -49,7 +49,7 @@ struct ContentView: View {
                         
                         Text("Hakob")
                         
-                        Button("Click Me") {
+                        Button("Subscribe Me") {
                             
                         }
                     }
