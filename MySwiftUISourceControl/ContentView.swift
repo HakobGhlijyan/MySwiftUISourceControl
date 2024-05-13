@@ -51,11 +51,13 @@ struct ContentView: View {
                         
                         Button("Click Me") {
                             
+                        }
                     }
+                    
                 }
-            
+            }
+            .padding()
         }
-        .padding()
     }
 }
 
