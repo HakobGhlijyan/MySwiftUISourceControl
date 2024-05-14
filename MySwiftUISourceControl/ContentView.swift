@@ -82,7 +82,7 @@ struct ContentView: View {
                             .font(.largeTitle)
                             .foregroundStyle(.tint)
                         
-                        Text("Hakob")
+                        Text("Hakob Ghlijyan")
                         
                         Button("Subscribe Me") {
                             
