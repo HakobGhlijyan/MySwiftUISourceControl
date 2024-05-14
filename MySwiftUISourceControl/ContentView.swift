@@ -50,6 +50,24 @@
  RELEASE:
  [Release] Description of release
  
+ НОВАЯ ФУНКЦИЯ:
+ [Feature] Описание функции
+
+ ОШИБКА, КОТОРАЯ НЕ БЫЛА ЗАПУЩЕНА В ПРОИЗВОДСТВО:
+ [Bug] Описание ошибки
+
+ освобождать:
+ [Релиз] Описание релиза
+
+ ОШИБКА В ПРОЦЕССЕ РАЗРАБОТКИ:
+ [Исправление] Описание исправления
+
+ ОБЫЧНЫЕ ЗАДАЧИ:
+ [Очистить] Описание изменений
+
+ освобождать:
+ [Релиз] Описание релиза
+ 
  */
 
 import SwiftUI
@@ -64,7 +82,7 @@ struct ContentView: View {
                             .font(.largeTitle)
                             .foregroundStyle(.tint)
                         
-                        Text("Hakob")
+                        Text("Hakob Ghlijyan")
                         
                         Button("Subscribe Me") {
                             
