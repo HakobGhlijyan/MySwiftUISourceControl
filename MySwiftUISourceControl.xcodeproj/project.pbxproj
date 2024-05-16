@@ -12,6 +12,7 @@
 		34DD44822BE4DF0000007691 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 34DD44812BE4DF0000007691 /* ContentView.swift */; };
 		34DD44842BE4DF0100007691 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 34DD44832BE4DF0100007691 /* Assets.xcassets */; };
 		34DD44882BE4DF0100007691 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 34DD44872BE4DF0100007691 /* Preview Assets.xcassets */; };
+		34E7C5DE2BF602A5006226AD /* SettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 34E7C5DD2BF602A5006226AD /* SettingsView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		34DD44832BE4DF0100007691 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		34DD44852BE4DF0100007691 /* MySwiftUISourceControl.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = MySwiftUISourceControl.entitlements; sourceTree = "<group>"; };
 		34DD44872BE4DF0100007691 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		34E7C5DD2BF602A5006226AD /* SettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				34DD447F2BE4DF0000007691 /* MySwiftUISourceControlApp.swift */,
 				34DD44812BE4DF0000007691 /* ContentView.swift */,
 				34122F922BE4F48800C904CC /* HomeView.swift */,
+				34E7C5DD2BF602A5006226AD /* SettingsView.swift */,
 				34DD44832BE4DF0100007691 /* Assets.xcassets */,
 				34DD44852BE4DF0100007691 /* MySwiftUISourceControl.entitlements */,
 				34DD44862BE4DF0100007691 /* Preview Content */,
@@ -143,6 +146,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				34122F932BE4F48800C904CC /* HomeView.swift in Sources */,
+				34E7C5DE2BF602A5006226AD /* SettingsView.swift in Sources */,
 				34DD44822BE4DF0000007691 /* ContentView.swift in Sources */,
 				34DD44802BE4DF0000007691 /* MySwiftUISourceControlApp.swift in Sources */,
 			);
