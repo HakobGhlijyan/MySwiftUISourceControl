@@ -8,6 +8,7 @@
 // COMMIT MESSAGES
 /*
  COMMIT MESSAGES
+ 
  Clone                  -    Copying the repo loaclly
  Commit                 -    Save ("checkpoint") changes on our current branch
  Stage                  -    Prepare changes for a commit
@@ -20,6 +21,11 @@
  Pull Request (PR)      -    Request to merge branch
  PR Merge               -    Merge all commits
  PR Squash and Merge    -    Squash all commit into one and merge
+ Protecting Branches
+ CODEOWNERS
+ Gitignore
+ ReadMe
+ Releases, Tags, Versioning
  
  --------------------------------------------------------------------
  
@@ -29,9 +35,18 @@
  Stash                  -    Сохранение изменений для последующего использования
  Push                   -    Отправка локальных коммитов в удаленное хранилище
  Pull                   -    Извлечение удаленных коммитов в локальное хранилище
- Слияние                -    соединение двух разных ветвей
- Перебазирование        -    Перемещение одной ветви поверх другой ветви
- Сбор данных            -    Дублирование (копирование) одного коммита из одной ветви в другую.
+ Merge                  -    соединение двух разных ветвей
+ Rebase                 -    Перемещение одной ветви поверх другой ветви
+ Cherry picking         -    Дублирование (копирование) одного коммита из одной ветви в другую.
+ Pull Request (PR)      - Запрос на объединение ветки
+ PR Merge               - Объединение всех коммитов
+ PR Squash и Merge      - Объединение всех коммитов в одну и слияние.
+ Защита ветвей
+ ВЛАДЕЛЬЦЫ КОДА
+ Gitignore
+ ReadMe
+ Релизы, теги, управление версиями
+ 
  
  --------------------------------------------------------------------
  
