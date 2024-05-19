@@ -12,6 +12,9 @@ struct ProfileView: View {
     
     var body: some View {
         Text("Hakob")
+            .onAppear {
+                
+            }
     }
 }
 
