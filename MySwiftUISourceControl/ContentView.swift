@@ -26,6 +26,7 @@
  Gitignore
  ReadMe
  Releases, Tags, Versioning
+ "Git Flow"
  
  --------------------------------------------------------------------
  
